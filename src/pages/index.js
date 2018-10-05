@@ -47,7 +47,7 @@ const IndexPage = ({
       <Hero>
         <h1>Hi.</h1>
         <p>
-          I&apos;m John Doe, a Senior UX Developer with five years of industry experience, specializing in developing
+          I&apos;m Duc, a Senior Frontend Engineer with five years of industry experience, specializing in developing
           React apps with the best UX users can get.
         </p>
         <Link to="/contact">
