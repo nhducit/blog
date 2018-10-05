@@ -80,4 +80,4 @@ Nếu xài typescipt/flowtype thì việc tạo file `env.ts/env.js` còn giúp 
 
 ### Kết
 
-Xài `env.ts/env.js` file để quản lý environment variable để document tốt hơn, tránh lỗi typo **_type safe_** và **_autocomplete_**.
+Xài `env.ts/env.js` file để quản lý environment variable để document tốt hơn, tránh lỗi typo, **_type safe_** và **_autocomplete_**.
