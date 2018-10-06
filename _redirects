@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://nhducit.netlify.com/* http://nhducit.com/:splat 301!
