@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
+Disallow: /admin
 
-sitemap: https://minimal-blog.netlify.com/sitemap.xml
+sitemap: https://nhducit.com/sitemap.xml
